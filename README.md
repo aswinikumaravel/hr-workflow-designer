@@ -34,7 +34,7 @@ Most workflow builders just render nodes. FlowHR adds:
 ## Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hr-workflow-designer.git
+git clone https://github.com/aswinikumaravel/hr-workflow-designer.git
 cd hr-workflow-designer
 npm install
 npm run dev
